@@ -12,7 +12,7 @@ export default function Home() {
         <meta property="og:title" content={products[0].name} />
         <meta
           property="og:description"
-          content={`${products[0].name}のページ`}
+          content={`${products[0].name}のページ!!!`}
         />
       </Head>
       <ul>
