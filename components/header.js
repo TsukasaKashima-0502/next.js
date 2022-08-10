@@ -10,7 +10,7 @@ export default function Header() {
       </li>
       <li>
         <Link href="/about">
-          <a>About</a>
+          <a>Aboutや</a>
         </Link>
       </li>
     </ul>
